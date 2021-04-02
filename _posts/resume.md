@@ -5,7 +5,7 @@ title: Backend
 
 # 소개
 
-<img alt="깃헙 프로필 사진" src="https://raw.githubusercontent.com/seokju-na/resume/bf557431b5e7b5b84fed25020885dcc5e4ad79d9/assets/me_at_github.png" width="200">
+<img alt="깃헙 프로필 사진" src="https://lh3.googleusercontent.com/QrbdSQXEUXoptkVgk_xtuMbF4BvvAc-K8YS8dNk36fIDGsj4MxrDTlGWO-mKv2CrLHkN=h200" width="200">
 
 * 이재호
 * Email : leejaeho114@gmail.com
